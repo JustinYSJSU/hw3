@@ -47,7 +47,7 @@ msg_data = "To: me <jyamamoto2002@gmail.com>\r\n"
 msg_data += "From: me <justin.yamamoto@sjsu.edu\r\n"
 msg_data += "Subject: cmpe148 yay!\r\n"
 msg_data += "\r\n"
-msg_data += "this is for cmpe148, which is obviously the best class ever\r\n"
+msg_data += "this is for cmpe148.....\r\n"
 msg_data += endmsg
 
 clientSocket.send(msg_data.encode())
